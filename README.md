@@ -1,0 +1,2 @@
+# assetscdn
+cdn assets
